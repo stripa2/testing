@@ -1,1 +1,2 @@
 we are creating a new file first.txt
+we are adding another line
