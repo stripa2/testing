@@ -1,3 +1,9 @@
+<<<<<<< HEAD
 my second file is second.txt
 new lin
+=======
+my secoand file is second.txt
+New text message
+
+>>>>>>> feat1
 
